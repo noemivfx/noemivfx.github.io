@@ -1,33 +1,11 @@
-# noemivfx.github.io
-
-topmenu:
-
-- title: Home
-  url: ""
-
-- title: About
-  url: "about/"
-
-- title: Contact
-  url: "contact/"
-
-- title: Get this theme  
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
-  class: "ml-2 btn btn-dark text-white px-3"
-  external: true
-
-# Footer Menu
-footermenu:
-
-- title: Home
-  url: ""
-
-- title: Privacy Policy
-  url: "privacy-policy/"
-
-- title: Contact
-  url: "contact/"
-
-- title: Download
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/  
-  external: true
+<section id="about">
+  <div class="about-container">
+    <h2>About Me</h2>
+    <p>
+      Hello! I'm [Tu Nombre], a passionate web developer who loves creating clean, responsive websites and learning new technologies. I enjoy turning ideas into real products and solving challenges with code.
+    </p>
+    <p>
+      When I'm not coding, you can find me reading, hiking, or playing video games. I'm currently exploring more about React and backend development.
+    </p>
+  </div>
+</section>
