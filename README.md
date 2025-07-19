@@ -37,3 +37,20 @@
 
 </body>
 </html>
+
+<style>
+  .animated-text {
+    font-size: 32px;
+    animation: colorChange 2s infinite;
+  }
+
+  @keyframes colorChange {
+    0%   { color: green; }
+    25%  { color: orange; }
+    50%  { color: blue; }
+    75%  { color: purple; }
+    100% { color: green; }
+  }
+</style>
+
+<h2 class="animated-text">¡Bienvenido a mi sitio!</h2>
