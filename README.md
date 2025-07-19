@@ -9,32 +9,31 @@
     </p>
   </div>
 </section>
-#about {
-  background-color: #f9f9f9;
-  padding: 60px 20px;
-  font-family: Arial, sans-serif;
-}
 
-.about-container {
-  max-width: 800px;
-  margin: auto;
-  text-align: center;
-}
-
-.about-container h2 {
-  font-size: 2.5em;
-  margin-bottom: 20px;
-  color: #333;
-}
-
-.about-container p {
-  font-size: 1.1em;
-  color: #555;
-  line-height: 1.6;
-  margin-bottom: 15px;
-}
-
+<!DOCTYPE html>
+<html lang="es">
 <head>
-  <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <title>Mi Web</title>
+  <style>
+    header {
+      background-color: #28a745; /* Verde */
+      color: white;
+      padding: 20px;
+      text-align: center;
+      font-family: Arial, sans-serif;
+    }
+  </style>
 </head>
+<body>
 
+  <header>
+    <h1>Bienvenido a Mi Página</h1>
+  </header>
+
+  <section>
+    <p>Este es el contenido de mi sitio web.</p>
+  </section>
+
+</body>
+</html>
