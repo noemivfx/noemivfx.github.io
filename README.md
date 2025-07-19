@@ -2,4 +2,4 @@
 
 #HOLA
 
-theme: jekyll-theme-minimal
+theme: affiliates-jekyll-theme
