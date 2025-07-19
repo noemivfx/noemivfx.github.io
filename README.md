@@ -9,3 +9,32 @@
     </p>
   </div>
 </section>
+#about {
+  background-color: #f9f9f9;
+  padding: 60px 20px;
+  font-family: Arial, sans-serif;
+}
+
+.about-container {
+  max-width: 800px;
+  margin: auto;
+  text-align: center;
+}
+
+.about-container h2 {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.about-container p {
+  font-size: 1.1em;
+  color: #555;
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
+
+<head>
+  <link rel="stylesheet" href="style.css">
+</head>
+
